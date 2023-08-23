@@ -55,16 +55,16 @@ Installation of MySQL
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1dAj0bIEVJqmGqOQUVpMlK-egBFu0f25b/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1dAj0bIEVJqmGqOQUVpMlK-egBFu0f25b)
 
-![App Screenshot](https://drive.google.com/file/d/1KWuqZWcoSuDRrQFrZJvjav781iL3gt4c/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1KWuqZWcoSuDRrQFrZJvjav781iL3gt4c)
 
-![App Screenshot](https://drive.google.com/file/d/1oQXCK8Ziloae_srdm1oDPbEq2SKKAV5i/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1oQXCK8Ziloae_srdm1oDPbEq2SKKAV5i)
 
-![App Screenshot](https://drive.google.com/file/d/1ODZLTUqVYAxV0qiVSOH37dXaVEUZYQl3/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1ODZLTUqVYAxV0qiVSOH37dXaVEUZYQl3)
 
-![App Screenshot](https://drive.google.com/file/d/1bH9odEVH8QUpcuByl2BsLs0v_peMS0C7/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1bH9odEVH8QUpcuByl2BsLs0v_peMS0C7)
 
-![App Screenshot](https://drive.google.com/file/d/19ENZl0MrlZGOWnQcXmxu_p_YW7NNlX27/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=19ENZl0MrlZGOWnQcXmxu_p_YW7NNlX27)
 
-![App Screenshot](https://drive.google.com/file/d/1OuesWH8qFrBgI1eQNHRosheGl6M7BR_L/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1OuesWH8qFrBgI1eQNHRosheGl6M7BR_L)
