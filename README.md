@@ -28,7 +28,13 @@ Django is a high-level Python Web framework that encourages rapid development an
 - Reassuringly secure.Django takes security seriously and helps developers avoid many common security mistakes.
 - Exceedingly scalable.Some of the busiest sites on the Web leverage Django’s ability to quickly and flexibly scale.
 
+## Workflow of Django
 
+![App Screenshot](https://drive.google.com/uc?id=1FJVa34Rlv0C2Vnigk4el2YI9cETtCZVF)
+
+## Folder structure in Django
+
+![App Screenshot](https://drive.google.com/uc?id=1ZPTkLvmd0kI_OuUpOzKtBMQg0gUp-v5F)
 
 ## Installation
 
