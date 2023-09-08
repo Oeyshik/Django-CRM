@@ -30,7 +30,7 @@ Django is a high-level Python Web framework that encourages rapid development an
 
 ## Workflow of Django
 
-![App Screenshot](https://drive.google.com/uc?id=1FJVa34Rlv0C2Vnigk4el2YI9cETtCZVF)
+![App Screenshot](https://drive.google.com/uc?id=1xb6IK-3RUWO6uHclYnSarMMgRxC-537T)
 
 ## Folder structure in Django
 
