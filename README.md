@@ -61,8 +61,6 @@ Installation of MySQL
   https://dev.mysql.com/downloads/installer/
 ```
 
-
-    
 ## Features of CRM app
 
 - Register Account
@@ -75,6 +73,27 @@ Installation of MySQL
     - Delete a Record
 - Form Validation
 
+## Deploying Django App at AWS using CICD pipelines
+
+A pipeline helps you automate steps in your software delivery process, such as initiating automatic builds and then deploying to Amazon EC2 instances. You will use AWS CodePipeline, a service that builds, tests, and deploys your code every time there is a code change, based on the release process models you define. Use CodePipeline to orchestrate each step in your release process. As part of your setup, you will plug other AWS services into CodePipeline to complete your software delivery pipeline.
+
+![App Screenshot](https://drive.google.com/uc?id=1htPbadsCNTqjWNaBJwieIOOVEc88uMRD)
+
+## Here are the following steps we need to follow for deployment by building cicd pipeline
+
+1. Create your AWS Account 
+
+2. Setup IAM Role
+
+3. EC2 Instance Creation
+
+4. CodeDeploy Installation
+
+5. Setting Up Code Structure
+
+6. Create Configuration Files
+
+7. Code Pipelines
 
 ## Screenshots
 
