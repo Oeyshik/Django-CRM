@@ -5,9 +5,11 @@ This app is developed utilizing Python, Django, and MySQL.
 The application efficiently manages and enhances the ability to Register, Log In, Log Out, Add Records, View Records, Update Records and Delete Records to boost overall customer satisfaction and business growth.
 
 
-## Authors
+## Video Demo
 
-- [@Oeyshik Das](https://github.com/Oeyshik/Django-CRM)
+### Click on the thumbnail to Watch:
+
+[![Click to Watch](https://drive.google.com/uc?id=1dAj0bIEVJqmGqOQUVpMlK-egBFu0f25b)](https://drive.google.com/file/d/1oNQQPsRrZbwpKH9zhzyrFxuIefFJpk-z/view?usp=sharing)
 
 
 ## Tech Stack
